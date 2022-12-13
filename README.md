@@ -9,7 +9,7 @@
    然后搜索`C# Online Compiler`，比如[这个网站](https://www.onlinegdb.com/online_csharp_compiler)，把`CertificateExtractor.cs`中的内容复制粘贴到编辑框，修改第九行`YourCertificate`为你从`54cc790bf952ea710ed7e8be08049531`复制的内容，点击`Run`
    ![0-1](imgs/0-1.jpg)
 
-   输出的结果对应`GAME_AUTHKEYS`、`GAME_SECRETKEYS`和`GAME_USERIDS`所需要的值
+   输出的结果对应`GAME_AUTHKEYS`、`GAME_SECRETKEYS`和`GAME_USERIDS`所需要的值.
 
 1. 创建一个名为`FGODailyBonusLog`的仓库，确保`branch`为`main`，点击`creating a new file`
     ![1](imgs/1.jpg)
